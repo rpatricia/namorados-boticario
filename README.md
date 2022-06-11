@@ -1,4 +1,5 @@
-# dia dos namorados
+# Dia dos Namorados
+
 ### Responsive Website Books-website
 
  <p>Site responsivo usando HTML, CSS e JavaScript. Possui um header que contém um cabeçalho com link de início,destaque, novidades, avaliações e blogs.</p>
@@ -9,4 +10,4 @@
 
 <div align="center"><img src="image/casal-boti02.png" width=auto>
 </div>
-# namorados-boticario
+
